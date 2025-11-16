@@ -1,4 +1,3 @@
-# JustGravyLLC.github.io
+# Just Gravy
 
-Test 1 line
-/n 2 lines
+Making games and saying names
