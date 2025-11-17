@@ -72,3 +72,21 @@ header, footer {
   .links-container {
     display: flex;
     flex-direction: column; // vertical list
+    gap: 1em; // spacing between links
+
+    a {
+      display: flex;
+      align-items: center;
+      gap: 1em; // space for image
+      text-align: left;
+      font-weight: bold;
+
+      img {
+        width: 60px; // placeholder size for image
+        height: 60px;
+        object-fit: cover;
+        border-radius: 4px;
+      }
+    }
+  }
+}
