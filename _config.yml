@@ -1,3 +1,5 @@
-theme: jekyll-theme-modernist
+include:
+  - assets/css/custom.css
+theme: jekyll-theme-cayman
 title: Just Gravy
 description: Just Gravy LLC makes quality physical and digital games.

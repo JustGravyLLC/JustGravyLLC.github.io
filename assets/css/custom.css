@@ -1,0 +1,48 @@
+/* --- Just Gravy Branding Overrides for jekyll-theme-cayman --- */
+
+/* Header background (top banner) */
+.page-header {
+  background-color: #8CD2F0 !important; /* sky blue */
+  color: #5A280A !important; /* dark brown text */
+}
+
+/* Header title text */
+.page-header h1,
+.page-header h2 {
+  color: #5A280A !important; /* dark brown */
+}
+
+/* Body background */
+body {
+  background-color: #8CD2F0; /* sky blue */
+}
+
+/* Standard text */
+body, p, li {
+  color: #5A280A; /* brown */
+}
+
+/* Links */
+a {
+  color: #F0B41E; /* yellow */
+}
+
+a:hover {
+  color: #C89212; /* slightly darker yellow */
+}
+
+/* Buttons */
+.btn {
+  background-color: #F0B41E;
+  color: #5A280A;
+}
+
+.btn:hover {
+  background-color: #C89212;
+}
+
+/* Code blocks or highlight areas */
+pre, code {
+  background-color: #FFD96A; /* lightened yellow */
+  color: #5A280A;
+}
