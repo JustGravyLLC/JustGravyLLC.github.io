@@ -1,49 +1,74 @@
-// Just Gravy Custom Styles for Cayman theme
+// ===========================
+// _custom.scss - Just Gravy Styles
+// ===========================
 
-// Example colors from Just Gravy logo
-$primary-color: #D94F4F;    // replace with your main logo red
-$secondary-color: #FFD166;  // replace with your secondary yellow
-$background-color: #F4F4F4; // light background
-$text-color: #333333;       // main text color
+// ---------- Colors ----------
+$primary-color: #D94F4F;    // Main logo red
+$secondary-color: #FFD166;  // Secondary yellow
+$background-color: #F4F4F4; // Light background
+$text-color: #333333;       // Main text color
 
-// Move skip-link off screen
-a.skip-link {
-  position: absolute;
-  left: -9999px;
-}
-
-// Override Cayman variables (if the theme uses them)
+// ---------- Global Overrides ----------
 body {
   background-color: $background-color;
   color: $text-color;
+  font-family: sans-serif;
 }
 
+// Hide the skip link off-screen
+a.skip-link {
+  position: absolute !important;
+  left: -9999px;
+}
+
+// ---------- Headers ----------
+h1, h2, h3, h4, h5, h6 {
+  color: $primary-color;
+  text-align: center; // Center section titles
+  margin-bottom: 1em;
+}
+
+// ---------- Links ----------
 a {
   color: $primary-color;
+  text-decoration: none;
   &:hover {
     color: darken($primary-color, 10%);
   }
 }
 
-header, footer {
-  background-color: $secondary-color;
-  color: $text-color;
-}
-
-h1, h2, h3, h4, h5, h6 {
-  color: $primary-color;
-  text-align: center;
-}
-
-// Optional: customize buttons
+// ---------- Buttons ----------
 button, input[type="submit"] {
   background-color: $primary-color;
   color: #fff;
   border: none;
   padding: 0.5em 1em;
   border-radius: 4px;
-
+  cursor: pointer;
   &:hover {
     background-color: darken($primary-color, 10%);
   }
 }
+
+// ---------- Headers and Footers ----------
+header, footer {
+  background-color: $secondary-color;
+  color: $text-color;
+  padding: 1em 0;
+  text-align: center;
+}
+
+// ---------- Sections ----------
+.section {
+  margin: 2em 0;
+  padding: 1em;
+  background-color: lighten($secondary-color, 40%);
+  border-radius: 8px;
+
+  h2 {
+    margin-bottom: 1em;
+  }
+
+  .links-container {
+    display: flex;
+    flex-direction: column; // vertical list
