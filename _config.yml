@@ -3,3 +3,5 @@ include:
 theme: jekyll-theme-cayman
 title: Just Gravy
 description: Just Gravy LLC makes quality physical and digital games.
+sass:
+  sass_dir: assets/css
