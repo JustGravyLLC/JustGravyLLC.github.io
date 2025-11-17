@@ -1,5 +1,10 @@
-# Links
-## [Blue Sky Page](https://bsky.app/profile/justgravyllc.com)
-## [Compile Discord Server - invite to COMPILE: Central](https://discord.gg/UYhE773mNw)
+---
+layout: default
+title: Just Gravy
+---
 
-# About
+# Welcome to Just Gravy
+
+This website uses a customized version of Jekyll’s **Cayman** theme with Just Gravy colors.
+
+Learn more about my games, projects, and development work here!
