@@ -2,6 +2,6 @@ include:
   - assets/css/custom.css
 theme: jekyll-theme-cayman
 title: Just Gravy
-description: Just Gravy LLC makes quality physical and digital games.
+description: Makers of Compile and other quality games and food.
 sass:
   sass_dir: assets/css
