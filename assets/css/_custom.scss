@@ -6,6 +6,12 @@ $secondary-color: #FFD166;  // replace with your secondary yellow
 $background-color: #F4F4F4; // light background
 $text-color: #333333;       // main text color
 
+// Move skip-link off screen
+a.skip-link {
+  position: absolute;
+  left: -9999px;
+}
+
 // Override Cayman variables (if the theme uses them)
 body {
   background-color: $background-color;
@@ -26,6 +32,7 @@ header, footer {
 
 h1, h2, h3, h4, h5, h6 {
   color: $primary-color;
+  text-align: center;
 }
 
 // Optional: customize buttons
