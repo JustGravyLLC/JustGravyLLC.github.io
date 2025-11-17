@@ -5,17 +5,17 @@ title: Just Gravy
 
 # Links
 
-[Michael Yang's email] (michael.yang@justgravyllc.com)
+[Michael Yang's email](michael.yang@justgravyllc.com)
 
 [Blue Sky](https://bsky.app/profile/justgravyllc.com)
 
 [Invite to the Compile Discord server - COMPILE: Central](https://discord.gg/UYhE773mNw)
 
-[Shop Compile products] (https://www.jeuxsynapsesgames.com/collections/shop-all?&sort_by=manual&filter.p.m.custom.product_line=Compile)
+[Shop Compile products](https://www.jeuxsynapsesgames.com/collections/shop-all?&sort_by=manual&filter.p.m.custom.product_line=Compile)
 
 [Michael Yang's BGG account](https://boardgamegeek.com/profile/JustGravy)
 
-[Compile: Main 1 BGG page] (https://boardgamegeek.com/boardgame/406652/compile-main-1)
+[Compile: Main 1 BGG page](https://boardgamegeek.com/boardgame/406652/compile-main-1)
 
 # Link Info
 
