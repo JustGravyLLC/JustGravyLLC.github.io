@@ -3,12 +3,6 @@ layout: default
 title: Just Gravy
 ---
 
-# Just Gravy
-
-Welcome! Below are the main places to find my work, follow updates, and get involved with **Compile**.
-
----
-
 <div class="section">
   <h2>Links</h2>
   <div class="links-container">
