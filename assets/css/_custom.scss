@@ -5,6 +5,7 @@
 // ---------- Colors ----------
 $primary-color: #EABA3E;    // Yellow
 $secondary-color: #5D290F;  // Brown
+$link-color: #D94F4F //Dark Red
 $background-color: #9BD6EF; // Light background
 $text-color: #5D290F;       // Brown
 
@@ -39,7 +40,7 @@ h3, h4, h5, h6 {
 
 // ---------- Links ----------
 a {
-  color: $secondary-color;
+  color: $link-color;
   text-decoration: none;
   &:hover {
     color: darken($primary-color, 10%);
