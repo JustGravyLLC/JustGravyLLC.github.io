@@ -4,7 +4,7 @@ title: Just Gravy
 ---
 
 <div class="section">
-  <h2>Links</h2>
+  <h3>Links</h3>
   <div class="links-container">
 
   <a href="mailto:michael.yang@justgravyllc.com">
@@ -43,7 +43,7 @@ title: Just Gravy
 ---
 
 <div class="section">
-  <h2>Link Info</h2>
+  <h3>Link Info</h3>
   <p><strong>Blue Sky</strong> — I post major announcements for my games and share game design content I enjoy.</p>
 
   <p><strong>COMPILE: Central</strong> — A Discord server I run for all things Compile: news, card sets, discussion, events, and more.</p>
@@ -54,7 +54,7 @@ title: Just Gravy
 ---
 
 <div class="section">
-  <h2>About</h2>
+  <h3>About</h3>
 
   <p><strong>Just Gravy LLC</strong> was founded to design, develop, and license <em>Compile</em>, a small-box dueling card game with deep replayability and dozens of evocative card sets.</p>
 
