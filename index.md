@@ -12,14 +12,19 @@ title: Just Gravy
     Michael Yang's Email
   </a>
 
+  <a href="https://discord.gg/UYhE773mNw">
+    <img src="/assets/img/discord.png" alt="Discord icon">
+    Invite to the Compile Discord — COMPILE: Central
+  </a>
+
   <a href="https://bsky.app/profile/justgravyllc.com">
     <img src="/assets/img/bluesky.png" alt="Blue Sky icon">
     Blue Sky
   </a>
 
-  <a href="https://discord.gg/UYhE773mNw">
-    <img src="/assets/img/discord.png" alt="Discord icon">
-    Invite to the Compile Discord — COMPILE: Central
+  <a href="https://justgravy.substack.com/?r=6o1new&utm_campaign=pub-share-checklist">
+    <img src="/assets/img/substack.png" alt="Substack icon">
+    Substack (Just Gravy Newsletters)
   </a>
 
   <a href="https://www.jeuxsynapsesgames.com/collections/shop-all?&sort_by=manual&filter.p.m.custom.product_line=Compile">
