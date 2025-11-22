@@ -24,12 +24,12 @@ title: Just Gravy
 
   <a href="https://justgravy.substack.com/?r=6o1new&utm_campaign=pub-share-checklist">
     <img src="/assets/img/substack.png" alt="Substack icon">
-    Substack (Just Gravy Newsletters)
+    Substack
   </a>
 
   <a href="https://www.jeuxsynapsesgames.com/collections/shop-all?&sort_by=manual&filter.p.m.custom.product_line=Compile">
     <img src="/assets/img/shop.png" alt="Store icon">
-    Shop Compile Products
+    Shop Compile Products (US)
   </a>
 
   <a href="https://boardgamegeek.com/profile/JustGravy">
@@ -49,9 +49,11 @@ title: Just Gravy
 
 <div class="section">
   <h3>Link Info</h3>
-  <p><strong>Blue Sky</strong> — I post major announcements for my games and share game design content I enjoy.</p>
+  <p><strong>Blue Sky</strong> — Major announcements for my games/life and a platform for me to upvote other people's stuff.</p>
 
-  <p><strong>COMPILE: Central</strong> — A Discord server I run for all things Compile: news, card sets, discussion, events, and more.</p>
+  <p><strong>Substack</strong> — Newsletters and mailing list.</p>
+
+  <p><strong>COMPILE: Central</strong> — Discord server I run for all things Compile: news, card sets, discussion, events, and more.</p>
 
   <p><strong>BGG Links</strong> — I check the BGG forums and private messages daily.</p>
 </div>
@@ -61,10 +63,10 @@ title: Just Gravy
 <div class="section">
   <h3>About</h3>
 
-  <p><strong>Just Gravy LLC</strong> was founded to design, develop, and license <em>Compile</em>, a small-box dueling card game with deep replayability and dozens of evocative card sets.</p>
+  <p><strong>Just Gravy LLC</strong> was founded to design, develop, and license <em>Compile</em>, a small-box dueling card game that's easy to table but has lots of layers of reward for repeated play. Compile: Main 1, Aux 1, Main 2, and Aux 2 are on sale now.</p>
 
   <p>Just Gravy has made other, less popular games in the past — and will make other, more popular games in the future.</p>
 
-  <p>Just Gravy LLC is a sole proprietorship owned by Michael Yang (the “I” above).</p>
+  <p>Just Gravy LLC is owned and operated by Michael Yang (the “I” above).</p>
 
 </div>
